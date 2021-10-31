@@ -17,7 +17,7 @@ const ReportDetails = (props) => {
         <p>{info.status}</p>
       </Col>
       <Col md={8} sm={12}>
-        <h6>Notes</h6>
+        <h6>Notes </h6>
         <p>{info.note}</p>
       </Col>
     </Row>
