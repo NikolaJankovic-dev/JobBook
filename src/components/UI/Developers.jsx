@@ -22,7 +22,7 @@ const Developers = () => {
                 <Envelope /> E-mail: <br />
                 sonja.musicki@gmail.com <br />
                 <Book /> Education: <br />
-                Belgrade Institute of <br /> Technology
+                Belgrade Institute of <br />  Technology
               </div>
               <button type="button" className="btn btn-primary">
                 <a
